@@ -14,6 +14,14 @@ I like the bugs that live in behavior rather than the stack trace.
 | [**onyx**](https://github.com/onyx-dot-app/onyx) `32k★` | Teams connector: Graph error diagnostics, and one bad page no longer kills a whole team's indexing · [#14721](https://github.com/onyx-dot-app/onyx/pull/14721) |
 | [**django-ninja**](https://github.com/vitalik/django-ninja) `9k★` | Two ORM schema-generation fixes · [#1746](https://github.com/vitalik/django-ninja/pull/1746) · [#1747](https://github.com/vitalik/django-ninja/pull/1747) |
 
+### Projects
+
+| | |
+| :--- | :--- |
+| **AI/ML** | [loyalty-audit](https://github.com/shivanij1203/loyalty-audit) · [NeoGuard](https://github.com/shivanij1203/NeoGuard) · [WageShield](https://github.com/shivanij1203/WageShield) · [RAISE](https://github.com/shivanij1203/RAISE--Responsible-AI-Standards-and-Ethics) |
+| **Data** | [BayAlert](https://github.com/shivanij1203/BayAlert) · [FiberPulse](https://github.com/shivanij1203/FiberPulse) |
+| **Software** | [SpendSmart](https://github.com/shivanij1203/SpendSmart) · [SurplusMed](https://github.com/shivanij1203/Surplus-Med) · [PassCheck](https://github.com/shivanij1203/PassCheck) |
+
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
