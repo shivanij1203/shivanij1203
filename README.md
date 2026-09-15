@@ -1,18 +1,14 @@
 ## Shivani Jagannatham
 
-**Software engineer across AI/ML, data, and backend.**
-
-AI/ML + Data Analytics Intern at InnovateK12 · Research Assistant at USF's Behavioral AI Lab · Previously two years as a software engineer at Verizon · MS in AI & Business Analytics, Dec 2026
-
-I like the bugs that live in behavior rather than the stack trace.
+**Software engineer across AI/ML, data, and backend.** Graduating Dec 2026.
 
 ### Open source
 
 | | |
 | :--- | :--- |
-| [**onyx**](https://github.com/onyx-dot-app/onyx) `32k★` | Found why Mistral models broke on every tool call. Adopted by the maintainers and shipped in [#13539](https://github.com/onyx-dot-app/onyx/pull/13539) |
-| [**onyx**](https://github.com/onyx-dot-app/onyx) `32k★` | Teams connector: Graph error diagnostics, and one bad page no longer kills a whole team's indexing · [#14721](https://github.com/onyx-dot-app/onyx/pull/14721) |
-| [**django-ninja**](https://github.com/vitalik/django-ninja) `9k★` | Two ORM schema-generation fixes · [#1746](https://github.com/vitalik/django-ninja/pull/1746) · [#1747](https://github.com/vitalik/django-ninja/pull/1747) |
+| [**onyx**](https://github.com/onyx-dot-app/onyx)&nbsp;`32k★` | Found why Mistral models broke on every tool call. Adopted by the maintainers and shipped in [#13539](https://github.com/onyx-dot-app/onyx/pull/13539) |
+| [**onyx**](https://github.com/onyx-dot-app/onyx)&nbsp;`32k★` | Teams connector: Graph error diagnostics, and one bad page no longer kills a whole team's indexing · [#14721](https://github.com/onyx-dot-app/onyx/pull/14721) |
+| [**django-ninja**](https://github.com/vitalik/django-ninja)&nbsp;`9k★` | Two ORM schema-generation fixes · [#1746](https://github.com/vitalik/django-ninja/pull/1746) · [#1747](https://github.com/vitalik/django-ninja/pull/1747) |
 
 ### Projects
 
