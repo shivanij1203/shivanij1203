@@ -1,6 +1,6 @@
 ## Shivani Jagannatham
 
-**Software engineer across AI/ML, data, and backend.** Graduating Dec 2026.
+**Software engineer across AI/ML, data, and backend.** 
 
 ### Open source
 
