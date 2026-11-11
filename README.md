@@ -1,6 +1,6 @@
 ## Shivani Jagannatham
 
-**Software engineer across AI/ML, data, and backend.** 
+**Software engineer across AI/ML, data, and fullstack.** 
 
 ### Open source
 
