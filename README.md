@@ -7,14 +7,17 @@
 | | |
 | :--- | :--- |
 | [**onyx**](https://github.com/onyx-dot-app/onyx)&nbsp;`32k★` | Found why Mistral models broke on every tool call. Adopted by the maintainers and shipped in [#13539](https://github.com/onyx-dot-app/onyx/pull/13539) |
-| [**onyx**](https://github.com/onyx-dot-app/onyx)&nbsp;`32k★` | Teams connector: Graph error diagnostics, and one bad page no longer kills a whole team's indexing · [#14721](https://github.com/onyx-dot-app/onyx/pull/14721) |
-| [**django&#8209;ninja**](https://github.com/vitalik/django-ninja)&nbsp;`9k★` | Two ORM schema-generation fixes · [#1746](https://github.com/vitalik/django-ninja/pull/1746) · [#1747](https://github.com/vitalik/django-ninja/pull/1747) |
+| [**django&#8209;ninja**](https://github.com/vitalik/django-ninja)&nbsp;`9k★` | `create_schema` no longer crashes on models with a ForeignObject reverse relation · merged [#1746](https://github.com/vitalik/django-ninja/pull/1746) |
+| [**django&#8209;ninja**](https://github.com/vitalik/django-ninja)&nbsp;`9k★` | `ModelSchema` applies `alias_generator` to foreign key fields · in review [#1747](https://github.com/vitalik/django-ninja/pull/1747) |
+| [**onyx**](https://github.com/onyx-dot-app/onyx)&nbsp;`32k★` | IMAP: one unusual header no longer ends a whole indexing run · in review [#15675](https://github.com/onyx-dot-app/onyx/pull/15675) |
+| [**onyx**](https://github.com/onyx-dot-app/onyx)&nbsp;`32k★` | Route `.vtt` files to the WebVTT parser so connectors stop skipping them · in review [#15683](https://github.com/onyx-dot-app/onyx/pull/15683) |
 
 ### Projects
 
 | | |
 | :--- | :--- |
-| **AI/ML** | [loyalty-audit](https://github.com/shivanij1203/loyalty-audit) · [NeoGuard](https://github.com/shivanij1203/NeoGuard) · [WageShield](https://github.com/shivanij1203/WageShield) · [RAISE](https://github.com/shivanij1203/RAISE--Responsible-AI-Standards-and-Ethics) |
+| **Research sprints** | [StillHere](https://github.com/shivanij1203/stillhere) (EEG command-following check, USF BCI Build Sprint) · [loyalty-audit](https://github.com/shivanij1203/loyalty-audit) (Apart, Secret Loyalties) · [esc-the-cartel](https://github.com/shivanij1203/esc-the-cartel) (Apart, AI Collusion) |
+| **AI/ML** | [NeoGuard](https://github.com/shivanij1203/NeoGuard) · [WageShield](https://github.com/shivanij1203/WageShield) · [RAISE](https://github.com/shivanij1203/RAISE--Responsible-AI-Standards-and-Ethics) |
 | **Data** | [BayAlert](https://github.com/shivanij1203/BayAlert) · [FiberPulse](https://github.com/shivanij1203/FiberPulse) |
 | **Software** | [SpendSmart](https://github.com/shivanij1203/SpendSmart) · [SurplusMed](https://github.com/shivanij1203/Surplus-Med) · [PassCheck](https://github.com/shivanij1203/PassCheck) |
 
